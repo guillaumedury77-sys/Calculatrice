@@ -1,0 +1,25 @@
+.line1 {
+    display: flex;
+}
+.line2 {
+    display: flex;
+}
+.line3 {
+    display: flex;
+}
+.line4 {
+    display: flex;
+}
+.line5 {
+    display: flex;
+}
+
+#entree{
+    border:1;
+    color:0cap;
+    flex:3;
+}
+
+.button {
+    flex:3;
+}
